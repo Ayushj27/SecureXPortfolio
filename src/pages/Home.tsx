@@ -15,7 +15,7 @@ const Home = () => {
       <HeroGeometric
         badge="SecureXLabs Intelligence"
         title1="Secure Your"
-        title2="Enterprise Futuree"
+        title2="Enterprise Future"
       />
       <PlatformSection />
       <IntelligenceSection />
